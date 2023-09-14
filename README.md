@@ -1,7 +1,7 @@
 ## A tendência é melhorar! 😉 ##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=icrcode&bg_color=0d1117&color=e6f7f3&line=2ea043&point=2ea043&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img src="icon/Eu.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img min-width="400px" max-width="400px" width="400px" align="right" alt="icaro vetor" src="https://raw.githubusercontent.com/icrcode/icrcode/main/Icon/Eu.png">
 <a href="https://github.com/icrcode/github-readme-stats"><br>
     <img height=130 align="center" src="https://github-readme-stats.vercel.app/api?username=icrcode&show_icons=true&theme=transparent&&hide=prs,contribs" />
 </a>
@@ -33,8 +33,8 @@
     <img align="center" alt="Icaro-atom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
     <img align="center" alt="Icaro-ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
     <img align="center" alt="Icaro-ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-    <img align="center" alt="Icaro-ai" height="30" width="40" src="C:\Users\Ícaro\Desktop\Git\Icon\Notion.svg">
-    <img align="center" alt="Icaro-ai" height="30" width="40" src="C:\Users\Ícaro\Desktop\Git\Icon\Google.svg">
+    <img align="center" alt="Icaro-nt" height="30" width="40" src="https://raw.githubusercontent.com/icrcode/icrcode/1df1f67b15c9ef12e22024524d36112b709aa4c6/Icon/Notion.svg">
+    <img align="center" alt="Icaro-gg" height="30" width="40" src="https://raw.githubusercontent.com/icrcode/icrcode/1df1f67b15c9ef12e22024524d36112b709aa4c6/Icon/Google.svg">
 </div>
 
 ## Redes Sociais ##
