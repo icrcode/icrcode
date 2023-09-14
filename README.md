@@ -15,7 +15,7 @@
 <br>
 
 
-<img min-width="400px" max-width="400px" width="400px" align="right" alt="icaro vetor" src="https://raw.githubusercontent.com/icrcode/icrcode/main/Icon/Eu.png">
+<img min-width="400px" max-width="500px" width="500px" align="right" alt="icaro vetor" src="https://raw.githubusercontent.com/icrcode/icrcode/main/Icon/Eu.png">
 
 
 
@@ -47,6 +47,8 @@
     <img align="center" alt="Icaro-gg" height="30" width="40" src="https://raw.githubusercontent.com/icrcode/icrcode/1df1f67b15c9ef12e22024524d36112b709aa4c6/Icon/Google.svg">
 </div>
 
+<br>
+
 ## Redes Sociais ##
 <div> 
   <a href = "mailto:icarobotelhosocial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -55,4 +57,5 @@
 </div>
 
 
-
+<br>
+<br>
