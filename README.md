@@ -3,10 +3,10 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=icrcode&bg_color=0d1117&color=e6f7f3&line=2ea043&point=2ea043&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img min-width="400px" max-width="400px" width="400px" align="right" alt="icaro vetor" src="https://raw.githubusercontent.com/icrcode/icrcode/main/Icon/Eu.png">
 <a href="https://github.com/icrcode/github-readme-stats"><br>
-    <img height=130 align="center" src="https://github-readme-stats.vercel.app/api?username=icrcode&show_icons=true&theme=transparent&&hide=prs,contribs" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=icrcode&show_icons=true&theme=transparent&&hide=prs,contribs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-    <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=icrcode&layout=compact&theme=transparent&langs_count=8&card_width=320" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=icrcode&layout=compact&theme=transparent&langs_count=8&card_width=320" />
 </a>
 
 ## Linguagens de Programação ##
