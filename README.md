@@ -1,5 +1,9 @@
 ## A tendência é melhorar! 😉 ##
 
+<h6> Oi, me chamo Ícaro, sou estudante de Engenharia de Software do Centro Universitário - Católica de Santa Catarina <br><br>
+Aqui você encontra tanto estudos acadêmicos quanto estudos pessoais. <br>
+Também sou professor no Complexo Educacional Moinho Joinville - FIESC/SESI/SENAI.</h6>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=icrcode&bg_color=0d1117&color=e6f7f3&line=2ea043&point=2ea043&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
