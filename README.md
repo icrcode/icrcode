@@ -4,7 +4,6 @@
 
 <br>
 
-
 <a href="https://github.com/icrcode/github-readme-stats"><br>
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=icrcode&show_icons=true&theme=transparent&&hide=prs,contribs" />
 </a>
@@ -14,10 +13,7 @@
 
 <br>
 
-
-<img min-width="400px" max-width="500px" width="500px" align="right" alt="icaro vetor" src="https://raw.githubusercontent.com/icrcode/icrcode/main/Icon/Eu.png">
-
-
+<img min-width="400px" max-width="400px" width="400px" align="right" alt="icaro vetor" src="https://raw.githubusercontent.com/icrcode/icrcode/main/Icon/Eu.png">
 
 ## Linguagens de Programação ##
 <div style="display: inline_block">
@@ -46,7 +42,6 @@
     <img align="center" alt="Icaro-nt" height="30" width="40" src="https://raw.githubusercontent.com/icrcode/icrcode/1df1f67b15c9ef12e22024524d36112b709aa4c6/Icon/Notion.svg">
     <img align="center" alt="Icaro-gg" height="30" width="40" src="https://raw.githubusercontent.com/icrcode/icrcode/1df1f67b15c9ef12e22024524d36112b709aa4c6/Icon/Google.svg">
 </div>
-
 <br>
 
 ## Redes Sociais ##
@@ -55,7 +50,4 @@
   <a href="https://www.linkedin.com/in/icarocbotelho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/___icaro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-
-<br>
 <br>
