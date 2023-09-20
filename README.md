@@ -22,15 +22,12 @@ Também sou professor de Desenvolvimento de Sistemas no Complexo Educacional Moi
 ## Linguagens de Programação ##
 <div style="display: inline_block">
     <img align="center" alt="Icaro-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Icaro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Icaro-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Icaro-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="Icaro-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
 ## Aprendendo no Momento ##
 <div> 
-    <img align="center" alt="Icaro-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Icaro-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Icaro-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     <img align="center" alt="Icaro-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -40,11 +37,9 @@ Também sou professor de Desenvolvimento de Sistemas no Complexo Educacional Moi
 <div style="display: inline_block">
     <img align="center" alt="Icaro-vsc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Icaro-vss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-    <img align="center" alt="Icaro-atom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
     <img align="center" alt="Icaro-ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
     <img align="center" alt="Icaro-ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
     <img align="center" alt="Icaro-nt" height="30" width="40" src="https://raw.githubusercontent.com/icrcode/icrcode/1df1f67b15c9ef12e22024524d36112b709aa4c6/Icon/Notion.svg">
-    <img align="center" alt="Icaro-gg" height="30" width="40" src="https://raw.githubusercontent.com/icrcode/icrcode/1df1f67b15c9ef12e22024524d36112b709aa4c6/Icon/Google.svg">
 </div>
 <br>
 
