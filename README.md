@@ -6,7 +6,7 @@
 
 -🔭 Aqui nesse belo local, tenho aguns repositórios para estudo e alguns projetos.
 
-## Entra em contato por aqui! 📲 
+## Entre em contato por aqui! 📲 
  
 <div> 
     <a href = "mailto:icaro.botelho@catolicasc.edu.br"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
