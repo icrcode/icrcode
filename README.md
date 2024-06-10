@@ -1,16 +1,14 @@
-## Hi there 👋
+## Oi! Me chamo Ícaro ! 😶‍🌫️
 
-<!--
-**icrcode/icrcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-👨‍💻 Sou técnico em Desenvolvimento de Sistemas e professor de Desenvolvimento de Sistemas!
+-🌱 Estudante de Engenharia de Software na Católica SC
+-🔭 Aqui nesse belo local, tenho aguns repositórios para estudo e alguns projetos.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Entra em contato por aqui! 📲 
+ 
+<div> 
+    <a href = "mailto:icaro.botelho@catolicasc.edu.br"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:icarobotelhosocial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/icarocbotelho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+##
+</div>
