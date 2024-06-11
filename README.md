@@ -4,7 +4,7 @@
 
 -🌱 Estudante de Engenharia de Software na Católica SC
 
--🔭 Aqui nesse belo local, você vai aguns repositórios para estudo e alguns projetos.
+-🔭 Aqui você vai encontrar, repositórios para estudo e alguns projetos.
 
 ## Entre em contato por aqui! 📲 
  
