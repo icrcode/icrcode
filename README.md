@@ -1,10 +1,10 @@
 ## Oi! Me chamo Ícaro ! 😶‍🌫️
 
--👨‍💻 Sou técnico em Desenvolvimento de Sistemas e professor de Desenvolvimento de Sistemas!
+-👨‍💻 Sou técnico em Desenvolvimento de Sistemas e Professor de Desenvolvimento de Sistemas!
 
 -🌱 Estudante de Engenharia de Software na Católica SC
 
--🔭 Aqui nesse belo local, tenho aguns repositórios para estudo e alguns projetos.
+-🔭 Aqui nesse belo local, você vai aguns repositórios para estudo e alguns projetos.
 
 ## Entre em contato por aqui! 📲 
  
