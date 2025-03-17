@@ -12,6 +12,8 @@
     <a href="https://www.linkedin.com/in/icarocbotelho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+## Status 
+
 <div>
 <a href="https://github.com/icrcode">
 <img height="230em" src="https://github-readme-stats.vercel.app/api?username=icrcode&show_icons=true&theme=github_dark&count_private=true"/>
