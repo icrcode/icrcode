@@ -15,6 +15,6 @@
 ## 📊 Status! 
 
 <div>
-    <img height="230em" src="https://github-readme-stats.vercel.app/api?username=icrcode&show_icons=true&theme=github_dark_dimmed &count_private=true"/>
+    <img height="230em" src="https://github-readme-stats.vercel.app/api?username=icrcode&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
     <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icrcode&layout=compact&langs_count=16&theme=github_dark_dimmed"/>
 </div>
