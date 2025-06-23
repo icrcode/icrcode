@@ -1,10 +1,10 @@
-## 👋 Hi, I'm Ícaro! 
+## 👋 Oi, sou Ícaro!
 
-- Systems Development Professor!
-- Software Engineering student at Católica SC
-- Here you will find repositories for study and some personal projects.
+- Professor de Desenvolvimento de Sistemas
+- Estudante de Engenharia de Software na Católica SC
+- Aqui você vai encontrar projetos pessoais, trabalhos da faculdade e algumas outras coisas pelo caminho.
 
-## 📬 Get in touch here! 
+## 📬 Contatos: 
 
 <div> 
     <a href="mailto:icaro.botelho@catolicasc.edu.br" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/icarocbotelho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-## 📊 Status! 
+## 📊 Status!
 
 <div>
     <img height="230em" src="https://github-readme-stats.vercel.app/api?username=icrcode&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
