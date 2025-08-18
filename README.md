@@ -3,6 +3,7 @@
 - Professor de Desenvolvimento de Sistemas
 - Estudante de Engenharia de Software na Católica SC
 - Aqui você vai encontrar projetos pessoais, trabalhos da faculdade e algumas outras coisas pelo caminho.
+- Algumas coisas eu desenvolvo no off, mas todos os dias estou por aqui!
 
 ## 📬 Contatos: 
 
