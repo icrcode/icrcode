@@ -1,16 +1,31 @@
 # ICRCODE - Ícaro Botelho
 
+<div style="display: flex; gap: 10px">
+
+![Work Smart](work_smart.gif)
+
+<div> 
+
 I’m a Systems Development Instructor, passionate about technology, teaching, and building solutions that connect theory with real-world practice. I’m currently pursuing a Software Engineering degree at Católica SC, where I dive deeper into system architecture, agile methodologies, and software development best practices.
 
 Here you’ll find a bit of everything: personal projects, academic work, ideas that were born in the classroom, and others that simply came out of my own imagination. Many of my projects explore API integration, automation, interface design, and modern web applications — always with a focus on continuous learning and experimentation.
 
 Some things I develop quietly in the background, but I’m here every day — studying, coding, and sharing knowledge. My goal is to turn code into real impact, whether by shaping my students’ learning journey, creating practical everyday solutions, or inspiring others to build their own projects.
 
+</div>
+
+
+</div>
+
 ## Things I’m Building
+
 [![GymNotes](https://img.shields.io/badge/GymNotes-%237B2CBF.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxnIHRyYW5zZm9ybT0ic2NhbGUoLTEsMSkgdHJhbnNsYXRlKC0yNCwwKSI+PHBhdGggZD0iTTE0LjQgMTQuNCA5LjYgOS42Ii8+PHBhdGggZD0iTTE4LjY1NyAyMS40ODVhMiAyIDAgMSAxLTIuODI5LTIuODI4bC0xLjc2NyAxLjc2OGEyIDIgMCAxIDEtMi44MjktMi44MjlsNi4zNjQtNi4zNjRhMiAyIDAgMSAxIDIuODI5IDIuODI5bC0xLjc2OCAxLjc2N2EyIDIgMCAxIDEgMi44MjggMi44MjkiLz48cGF0aCBkPSJtMjEuNSAyMS41LTEuNC0xLjQiLz48cGF0aCBkPSJNNi40MDQgMTIuNzY4YTIgMiAwIDEgMS0yLjgyOS0yLjgyOWwxLjc2OC0xLjc2N2EyIDIgMCAxIDEtMi44MjgtMi44MjlsMi44MjgtMi44MjhhMiAyIDAgMSAxIDIuODI5IDIuODI4bDEuNzY3LTEuNzY4YTIgMiAwIDEgMSAyLjgyOSAyLjgyOXoiLz48L2c+PC9zdmc+&logoColor=white)](https://gymnotes.xyz/)
 
-
 ## Technologies I work with
+
+<div style="display: flex; gap: 10px">
+
+<div>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -23,6 +38,9 @@ Some things I develop quietly in the background, but I’m here every day — st
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+</div>
+<div style="width:1%;"></div>
+<div>
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -33,6 +51,9 @@ Some things I develop quietly in the background, but I’m here every day — st
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+</div>
+
+</div>
 
 ## Get in touch
 
