@@ -42,8 +42,3 @@ Some things I develop quietly in the background, but I’m here every day — st
 [![Outlook](https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:icaro.botelho@catolicasc.edu.br)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icarobotelhosocial@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icarocbotelho/)
-
-## status
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=icrcode&show_icons=true&theme=github_dark_dimmed&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icrcode&layout=compact&langs_count=8&theme=github_dark_dimmed)
