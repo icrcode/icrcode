@@ -1,7 +1,5 @@
 # ICRCODE - Ícaro Botelho
 
-![Work Smart](work_smart.gif)
-
 I’m a Systems Development Instructor, passionate about technology, teaching, and building solutions that connect theory with real-world practice. I’m currently pursuing a Software Engineering degree at Católica SC, where I dive deeper into system architecture, agile methodologies, and software development best practices.
 
 Here you’ll find a bit of everything: personal projects, academic work, ideas that were born in the classroom, and others that simply came out of my own imagination. Many of my projects explore API integration, automation, interface design, and modern web applications — always with a focus on continuous learning and experimentation.
@@ -38,6 +36,8 @@ Some things I develop quietly in the background, but I’m here every day — st
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 ## Get in touch
+
+![Work Smart](work_smart.gif)
 
 [![Outlook](https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:icaro.botelho@catolicasc.edu.br)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icarobotelhosocial@gmail.com)
