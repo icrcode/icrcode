@@ -1,17 +1,20 @@
-# ICRCODE - Ícaro Botelho
+# Ícaro Botelho
 
-I’m a Systems Development Instructor, passionate about technology, teaching, and building solutions that connect theory with real-world practice. I’m currently pursuing a Software Engineering degree at Católica SC, where I dive deeper into system architecture, agile methodologies, and software development best practices.
+Systems Development Instructor and Software Engineering student at Católica SC. I spend most of my time building things, teaching, and trying to connect what I learn in theory with what actually works in practice.
 
-Here you’ll find a bit of everything: personal projects, academic work, ideas that were born in the classroom, and others that simply came out of my own imagination. Many of my projects explore API integration, automation, interface design, and modern web applications — always with a focus on continuous learning and experimentation.
+You'll find a mix of everything here — personal projects, academic work, and random ideas I decided to turn into code. A lot of it involves APIs, automation, web apps, and interfaces. Some projects are quiet work in progress, others are done and live.
 
-Some things I develop quietly in the background, but I’m here every day — studying, coding, and sharing knowledge. My goal is to turn code into real impact, whether by shaping my students’ learning journey, creating practical everyday solutions, or inspiring others to build their own projects.
+Currently learning Spanish. Slowly, but consistently.
 
+## Things I'm Building
 
-## Things I’m Building
+[![Valida AI](https://img.shields.io/badge/Valida%20AI-%237b0b0b.svg?style=for-the-badge)](https://github.com/icrcode/valida-ai)
+
+## Shipped
 
 [![GymNotes](https://img.shields.io/badge/GymNotes-%237B2CBF.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxnIHRyYW5zZm9ybT0ic2NhbGUoLTEsMSkgdHJhbnNsYXRlKC0yNCwwKSI+PHBhdGggZD0iTTE0LjQgMTQuNCA5LjYgOS42Ii8+PHBhdGggZD0iTTE4LjY1NyAyMS40ODVhMiAyIDAgMSAxLTIuODI5LTIuODI4bC0xLjc2NyAxLjc2OGEyIDIgMCAxIDEtMi44MjktMi44MjlsNi4zNjQtNi4zNjRhMiAyIDAgMSAxIDIuODI5IDIuODI5bC0xLjc2OCAxLjc2N2EyIDIgMCAxIDEgMi44MjggMi44MjkiLz48cGF0aCBkPSJtMjEuNSAyMS41LTEuNC0xLjQiLz48cGF0aCBkPSJNNi40MDQgMTIuNzY4YTIgMiAwIDEgMS0yLjgyOS0yLjgyOWwxLjc2OC0xLjc2N2EyIDIgMCAxIDEtMi44MjgtMi44MjlsMi44MjgtMi44MjhhMiAyIDAgMSAxIDIuODI5IDIuODI4bDEuNzY3LTEuNzY4YTIgMiAwIDEgMSAyLjgyOSAyLjgyOXoiLz48L2c+PC9zdmc+&logoColor=white)](https://gymnotes.xyz/)
 
-## Technologies I work with
+## Stack
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -35,9 +38,9 @@ Some things I develop quietly in the background, but I’m here every day — st
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
-## Get in touch
+---
 
-![Work Smart](work_smart.gif)
+## Get in touch
 
 [![Outlook](https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:icaro.botelho@catolicasc.edu.br)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icarobotelhosocial@gmail.com)
