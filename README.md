@@ -1,22 +1,65 @@
+<h1>Oi, eu sou o Ícaro 🐸</h1>
 
-```bash
-icrcode@github
-────────────────────────────────────────────────────────────────────────
-Role...................... Systems Development Instructor
-Education................. Software Engineering @ Católica SC
-Focus..................... APIs, Automation, Web Applications, DevOps
-Interests................. Backend, Interfaces, System Architecture
-────────────────────────────────────────────────────────────────────────
-Languages................. PHP, Python, JavaScript, TypeScript, Java
-Frameworks................ Node.js, Django, Bun, Flutter, jQuery
-Databases................. MySQL, PostgreSQL, Redis, Firebase, S3, MinOS
-Tools..................... Docker, AWS
-────────────────────────────────────────────────────────────────────────
-Projects.Featured......... Valida AI
-Projects.Shipped.......... GymNotes
-────────────────────────────────────────────────────────────────────────
-Contact.Academic.......... icaro.botelho@catolicasc.edu.br
-Contact.Personal.......... icarobotelhosocial@gmail.com
-Contact.LinkedIn.......... linkedin.com/in/icarocbotelho
-Contact.GitHub............ github.com/icrcode
-────────────────────────────────────────────────────────────────────────
+<p>
+  <img src="assets/fire.gif">
+  <br>
+  <a href="https://linkedin.com/in/icarocbotelho"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:icarobotelhosocial@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail pessoal"></a>
+  <a href="mailto:icaro.botelho@catolicasc.edu.br"><img src="https://img.shields.io/badge/Acadêmico-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail acadêmico"></a>
+  <a href="https://github.com/icrcode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Instrutor-Desenvolvimento%20de%20Sistemas-0F766E?style=flat-square" alt="Instrutor">
+  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-Católica%20SC-ab243a?style=flat-square" alt="Engenharia de Software">
+  <img src="https://komarev.com/ghpvc/?username=icrcode&style=flat-square&color=555555&label=visitas" alt="visitas">
+</p>
+
+## Sobre mim
+
+Sou instrutor de Desenvolvimento de Sistemas e Engenheiro de Software formado pela Católica SC.
+
+Sou Nerd que que curte construir APIs, automações e aplicações web e de acompanhar o projetos inteiros: da modelagem do banco até o deploy.
+
+O que mais me prende é o backend e a arquitetura de sistemas, entender como as peças se conectam e deixar tudo organizado para crescer sem dor de cabeça.
+
+No dia a dia pra mim, ensinar e programar andam juntos: educação muda a vida das pessoas!
+
+## Com o que eu trabalho
+
+**Linguagens**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frameworks e Runtimes**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+**Dados e Armazenamento**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+
+**DevOps e Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+## Estatísticas
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=icrcode&custom_title=icrcode%20stats&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=icrcode&custom_title=icrcode%20stats&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=icrcode-senai&custom_title=icrcode-senai%20stats&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=icrcode-senai&custom_title=icrcode-senai%20stats&include_all_commits=true&theme=dark_github)
+
+<p>Quer trocar uma ideia? Me chama no LinkedIn ou por e-mail!</p>
