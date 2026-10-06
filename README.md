@@ -12,7 +12,6 @@
 <p>
   <img src="https://img.shields.io/badge/Instrutor-Desenvolvimento%20de%20Sistemas-0F766E?style=flat-square" alt="Instrutor">
   <img src="https://img.shields.io/badge/Engenharia%20de%20Software-Católica%20SC-ab243a?style=flat-square" alt="Engenharia de Software">
-  <img src="https://komarev.com/ghpvc/?username=icrcode&style=flat-square&color=555555&label=visitas" alt="visitas">
 </p>
 
 ## Sobre mim
