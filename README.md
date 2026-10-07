@@ -3,7 +3,13 @@
 <p>
   <img src="https://img.shields.io/badge/Professor%20de%20Desenvolvimento%20de%20Sistemas-SENAI-164193?style=flat-square" alt="Professor">
   <br>
-  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-Católica%20SC-ab243a?style=flat-square" alt="Engenharia de Software">
+  <img src="https://img.shields.io/badge/Engenheiroa%20de%20Software-Católica%20SC-ab243a?style=flat-square" alt="Engenharia de Software">
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/Técnico%20em%20Desenvolvimento%20de%20Sistemas-SENAI-164193?style=flat-square" alt="Técnico">
+  <br>
+  <img src="https://img.shields.io/badge/Técnico%20em%20Administração%20de%20Sistemas-SENAI-164193?style=flat-square" alt="Técnico">
+  <br>
 </p>
 
 ### Com o que eu trabalho:
