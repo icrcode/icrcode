@@ -1,7 +1,7 @@
 ### Buenas?
 
 <p>
-  <img src="https://img.shields.io/badge/Professor-Desenvolvimento%20de%20Sistemas-0F766E?style=flat-square" alt="Instrutor">
+  <img src="https://img.shields.io/badge/Professor%20de%20Desenvolvimento%20de%20Sistemas-SENAI-164193?style=flat-square" alt="Professor">
   <br>
   <img src="https://img.shields.io/badge/Engenharia%20de%20Software-Católica%20SC-ab243a?style=flat-square" alt="Engenharia de Software">
 </p>
