@@ -1,21 +1,11 @@
-<h1>Oi, eu sou o Ícaro 🐸</h1>
+### Buenas?
+
 <p>
-  <img src="https://img.shields.io/badge/Instrutor-Desenvolvimento%20de%20Sistemas-0F766E?style=flat-square" alt="Instrutor">
+  <img src="https://img.shields.io/badge/Professor-Desenvolvimento%20de%20Sistemas-0F766E?style=flat-square" alt="Instrutor">
   <img src="https://img.shields.io/badge/Engenharia%20de%20Software-Católica%20SC-ab243a?style=flat-square" alt="Engenharia de Software">
 </p>
 
-<p>
-Sapo de fora não chia rapá!!!!
-
-No dia a dia pra mim, ensinar e programar andam juntos: educação muda a vida das pessoas!  
-<br>
-  <a href="https://linkedin.com/in/icarocbotelho"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:icarobotelhosocial@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail pessoal"></a>
-  <a href="mailto:icaro.botelho@catolicasc.edu.br"><img src="https://img.shields.io/badge/Acadêmico-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail acadêmico"></a>
-  <a href="https://github.com/icrcode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
-## Com o que eu trabalho
+## Com o que eu trabalho:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,7 +22,7 @@ No dia a dia pra mim, ensinar e programar andam juntos: educação muda a vida d
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-## Estatísticas
+## Estatísticas:
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=icrcode&custom_title=icrcode%20stats&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=icrcode&custom_title=icrcode%20stats&include_all_commits=true&theme=dark_github)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=icrcode-senai&custom_title=icrcode-senai%20stats&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=icrcode-senai&custom_title=icrcode-senai%20stats&include_all_commits=true&theme=dark_github)
