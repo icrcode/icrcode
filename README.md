@@ -18,8 +18,6 @@ No dia a dia pra mim, ensinar e programar andam juntos: educação muda a vida d
 
 ## Com o que eu trabalho
 
-**Linguagens**
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
