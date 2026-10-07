@@ -1,4 +1,8 @@
 <h1>Oi, eu sou o Ícaro 🐸</h1>
+<p>
+  <img src="https://img.shields.io/badge/Instrutor-Desenvolvimento%20de%20Sistemas-0F766E?style=flat-square" alt="Instrutor">
+  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-Católica%20SC-ab243a?style=flat-square" alt="Engenharia de Software">
+</p>
 
 <p>
 Sou Professor de Desenvolvimento de Sistemas e Engenheiro de Software formado pela Católica SC. O que mais me prende é o backend e a arquitetura de sistemas, entender como as peças se conectam e deixar tudo organizado para crescer sem dor de cabeça.
@@ -9,11 +13,6 @@ No dia a dia pra mim, ensinar e programar andam juntos: educação muda a vida d
   <a href="mailto:icarobotelhosocial@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail pessoal"></a>
   <a href="mailto:icaro.botelho@catolicasc.edu.br"><img src="https://img.shields.io/badge/Acadêmico-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail acadêmico"></a>
   <a href="https://github.com/icrcode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Instrutor-Desenvolvimento%20de%20Sistemas-0F766E?style=flat-square" alt="Instrutor">
-  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-Católica%20SC-ab243a?style=flat-square" alt="Engenharia de Software">
 </p>
 
 ## Com o que eu trabalho
