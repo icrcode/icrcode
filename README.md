@@ -16,8 +16,8 @@
 
 ## Sobre mim
 
-Sou Professor de Desenvolvimento de Sistemas e Engenheiro de Software formado pela Católica SC.
-O que mais me prende é o backend e a arquitetura de sistemas, entender como as peças se conectam e deixar tudo organizado para crescer sem dor de cabeça.
+Sou Professor de Desenvolvimento de Sistemas e Engenheiro de Software formado pela Católica SC. O que mais me prende é o backend e a arquitetura de sistemas, entender como as peças se conectam e deixar tudo organizado para crescer sem dor de cabeça.
+
 No dia a dia pra mim, ensinar e programar andam juntos: educação muda a vida das pessoas!
 
 ## Com o que eu trabalho
